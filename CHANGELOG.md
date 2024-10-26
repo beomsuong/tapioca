@@ -1,6 +1,5 @@
 ## 1.0.6
-* Get the percentage of processing
-
+* FIX: 'onRequestPermissionsResult' overrides nothing ( #70 )
 ## 1.0.5+3
 * Add the Discord url on README.md and Add CONTRIBUTING.md
 
